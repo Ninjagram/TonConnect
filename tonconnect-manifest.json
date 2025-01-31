@@ -1,0 +1,8 @@
+{
+  "url": "https://telegram.org",
+  "app_name": "Ninjagram",
+  "icon_url": "https://raw.githubusercontent.com/Ninjagram/TonConnect/refs/heads/main/ninjagram.png",
+  "network": "mainnet",
+  "bridge": "https://bridge.tonapi.io/bridge",
+  "types": ["tonconnect"]
+}
